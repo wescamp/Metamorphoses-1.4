@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-12-30 12:02+0100\n"
+"PO-Revision-Date: 2008-12-30 12:02+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:11 Metamorphoses/_main.cfg:13
+msgid "Metamorphoses"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:13
+msgid "<60,60,230>"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:14
+msgid "MMP"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:28
+msgid ""
+"1 In nova fert animus mutatas dicere formas\n"
+"2 corpora; di, coeptis (nam vos mutastis et illas)\n"
+"3 adspirate meis primaque ab origine mundi\n"
+"4 ad mea perpetuum deducite tempora carmen!\n"
+"\n"
+"(Publius Ovidius Naso, Metamorphoses)\n"
+"\n"
+"This is an epic story about a cursed wolf, crazy mage, foolish elves and "
+"great task - regain former shape once again. \n"
+"\n"
+"Intermediate level\n"
+"\n"
+"10 scenarios"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:31
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:31
+msgid "Peaceful wolf"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:33
+msgid "Angry wolf"
+msgstr ""
+
+#. [campaign]: id=Metamorphoses
+#: Metamorphoses/_main.cfg:33
+msgid "(Medium)"
+msgstr ""
+
+#. [about]
+#: Metamorphoses/_main.cfg:39
+msgid "Campaign Design and text corrections"
+msgstr ""
+
+#. [entry]
+#: Metamorphoses/_main.cfg:41
+msgid "Anezka Bubenickova"
+msgstr ""
+
+#. [about]
+#: Metamorphoses/_main.cfg:45
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: Metamorphoses/_main.cfg:51
+msgid "Also many thanks to:"
+msgstr ""
+
+#. [entry]
+#: Metamorphoses/_main.cfg:53
+msgid "Publius Ovidius Naso"
+msgstr ""
